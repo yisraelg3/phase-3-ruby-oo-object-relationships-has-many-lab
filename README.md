@@ -1,11 +1,11 @@
-# Has Many Lab
+# Object Relationships: Has Many Lab
 
-## Objectives
+## Learning Goals
 
-- Build out the has many/belongs to relationship between two classes.
-- Build methods that use the has many/belongs to relationship between two classes.
-- Use a class variable to track data about a class.
-- Build a class method to expose data stored in a class variable.
+- Build out the has many/belongs to relationship between two classes
+- Build methods that use the has many/belongs to relationship between two classes
+- Use a class variable to track data about a class
+- Build a class method to expose data stored in a class variable
 
 ## Instructions
 
